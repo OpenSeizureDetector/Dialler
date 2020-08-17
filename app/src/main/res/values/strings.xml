@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenSeizureDetector Dialler</string>
+    <string name="activate_dialler">Activate Dialler:</string>
+    <string name="title">OpenSeizureDetector Dialler Will Dial the Phone numbers entered into the main OpenSeizureDetector App when a seizure detecion Alarm is generated.\n\nYou can close this window without affecting the alarm function.</string>
+</resources>
