@@ -3,7 +3,6 @@
     package="uk.org.openseizuredetector.dialler"
     android:versionCode="1"
     android:versionName="0.1">
->
     <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <!--<uses-permission android:name="android.permission.READ_PHONE_STATE" />
