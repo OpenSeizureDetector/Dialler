@@ -2,4 +2,7 @@
     <string name="app_name">OpenSeizureDetector Dialler</string>
     <string name="activate_dialler">Activate Dialler:</string>
     <string name="title">OpenSeizureDetector Dialler Will Dial the Phone numbers entered into the main OpenSeizureDetector App when a seizure detecion Alarm is generated.\n\nYou can close this window without affecting the alarm function.</string>
+    <string name="privacy_warning">WARNING - THIS APP WILL DIAL THE FIRST NUMBER ON THE LIST OF EMERGENCY CONTACTS IN OpenSeizureDetector WHEN A SEIZURE IS DETECTED.\nTHERE ARE OBVIOUSLY PRIVACY ISSUES ASSOCIATED WITH THIS\n\n*** MAKE SURE YOU REALLY WANT TO USE THIS FEATURE ****\n\nIf not, use the Uninstall button below to remove the dialler app.</string>
+    <string name="uninstall_text">UNINSTALL OpenSeizureDetector Dialler</string>
+
 </resources>
